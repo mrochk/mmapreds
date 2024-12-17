@@ -6,4 +6,4 @@ All the steps and the algorithms used are explained in the [report](report.pdf).
 
 To summarize, I obtained the following results:
 
-<img src="ss.png" width="600">
+<img src="ss.png" width="500">
